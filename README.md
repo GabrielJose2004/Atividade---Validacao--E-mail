@@ -12,6 +12,12 @@
 
 Sistema de validação de email com verificação em duas camadas (front-end e back-end), desenvolvido para demonstrar interatividade, captura de eventos, validação de dados, comunicação assíncrona e atualização dinâmica da interface.
 
+## Demonstração
+
+![Demonstração do Projeto](public/img/demo.gif)
+
+O GIF acima demonstra o funcionamento completo da aplicação, incluindo validação em tempo real, mensagens de erro inline e feedback visual ao usuário.
+
 ## Estrutura de Arquivos
 
 ### `index.html`
